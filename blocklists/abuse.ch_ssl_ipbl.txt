@@ -1,0 +1,16 @@
+# Source: Abuse.ch SSL IPBL
+# Updated: 2025-11-21T12:37:24.200526
+# URL: https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
+
+################################################################
+# abuse.ch SSLBL Botnet C2 IP Blacklist (IPs only)              #
+# Last updated: 2025-01-02 01:09:06 UTC                        #
+#                                                              #
+# Terms Of Use: https://sslbl.abuse.ch/blacklist/              #
+# For questions please contact sslbl [at] abuse.ch             #
+################################################################
+#
+# DstIP
+#
+# ATTENTION: This list has been deprecated on 2025-01-03
+#
