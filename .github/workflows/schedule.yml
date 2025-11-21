@@ -1,0 +1,47 @@
+name: Daily Blocklist Ingestion
+
+on:
+  schedule:
+    # Runs every 12 hours (at 00:00 and 12:00 UTC)
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  ingest-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          
+      - name: Run ingestion script
+        run: python ingest.py
+        
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'Blocklist Bot'
+          git config --global user.email 'bot@noreply.github.com'
+          
+          # Add all files in blocklists directory including index.html
+          git add blocklists/*
+          
+          # Check for changes before committing
+          if [[ -n $(git status -s) ]]; then
+            git commit -m "Auto-update blocklists [$(date -u +'%Y-%m-%dT%H:%M:%SZ')]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
