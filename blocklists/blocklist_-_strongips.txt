@@ -1,5 +1,5 @@
 # Source: Blocklist - StrongIPs
-# Updated: 2025-11-24T01:39:16.154062
+# Updated: 2025-11-24T12:40:07.368894
 # URL: https://lists.blocklist.de/lists/strongips.txt
 
 103.106.104.187
