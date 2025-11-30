@@ -1,5 +1,5 @@
 # Source: Badd-Boyz Hosts
-# Updated: 2025-11-29T12:35:51.327017
+# Updated: 2025-11-30T01:42:42.729966
 # URL: https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 
 # This hosts file is brought to you by Mitchell Krog
