@@ -1,5 +1,5 @@
 # Source: Blocklist Project - TikTok
-# Updated: 2025-12-05T12:40:02.664511
+# Updated: 2025-12-06T01:22:49.212163
 # URL: https://blocklistproject.github.io/Lists/tiktok.txt
 
 # ------------------------------------[UPDATE]--------------------------------------
