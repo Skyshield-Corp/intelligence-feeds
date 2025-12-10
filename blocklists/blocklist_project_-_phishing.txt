@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Phishing
-# Updated: 2025-12-09T12:41:42.753181
+# Updated: 2025-12-10T01:28:24.124214
 # URL: https://blocklistproject.github.io/Lists/phishing.txt
 
 # ------------------------------------[UPDATE]--------------------------------------
