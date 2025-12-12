@@ -1,13 +1,13 @@
 # Source: anti-AD EasyList
-# Updated: 2025-12-12T01:28:48.717696
+# Updated: 2025-12-12T12:41:16.602292
 # URL: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 
 !Title: anti-AD
-!Version: 20251211025051
+!Version: 20251212151758
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 91491
+!Total lines: 91490
 @@||ad.azure.com^
 @@||ad.ext.azure.com^
 @@||ads.taboola.com^
@@ -47614,7 +47614,6 @@
 ||liangao.com^
 ||liangpinge.com^
 ||liangsbeflea.shop^
-||dig.lianjia.com^
 ||lianka.cn^
 ||lianle.com^
 ||lianmeng.com^
