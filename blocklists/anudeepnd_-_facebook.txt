@@ -1,5 +1,5 @@
 # Source: AnudeepND - Facebook
-# Updated: 2025-12-13T01:24:16.124761
+# Updated: 2025-12-13T12:36:42.802694
 # URL: https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 
 # Host file to block ads, tracking and more! Updated daily
