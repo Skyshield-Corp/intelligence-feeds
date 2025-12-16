@@ -1,5 +1,5 @@
 # Source: AdAway Hosts
-# Updated: 2025-12-15T12:44:03.597287
+# Updated: 2025-12-16T01:38:52.463497
 # URL: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 
 # AdAway default blocklist
