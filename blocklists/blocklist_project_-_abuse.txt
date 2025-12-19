@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Abuse
-# Updated: 2025-12-19T01:28:45.133376
+# Updated: 2025-12-19T12:39:34.934274
 # URL: https://blocklistproject.github.io/Lists/abuse.txt
 
 # ------------------------------------[UPDATE]--------------------------------------
