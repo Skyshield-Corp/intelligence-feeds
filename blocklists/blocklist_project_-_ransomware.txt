@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Ransomware
-# Updated: 2026-01-16T01:42:16.156615
+# Updated: 2026-01-16T12:42:30.429590
 # URL: https://blocklistproject.github.io/Lists/ransomware.txt
 
 # Title: Ransomware Block List
