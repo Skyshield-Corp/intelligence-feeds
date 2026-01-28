@@ -1,5 +1,5 @@
 # Source: Alienvault Reputation Generic
-# Updated: 2026-01-28T01:44:14.893486
+# Updated: 2026-01-28T12:48:28.882819
 # URL: http://reputation.alienvault.com/reputation.generic
 
 
