@@ -1,9 +1,9 @@
 # Source: anti-AD EasyList
-# Updated: 2026-02-24T02:00:50.873302
+# Updated: 2026-02-24T13:03:20.772283
 # URL: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 
 !Title: anti-AD
-!Version: 20260223154157
+!Version: 20260224162115
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
@@ -88501,7 +88501,7 @@
 ||user-clicks.com^
 ||user-red.com^
 ||userballot.com^
-||usercentrics.eu^
+||uct.service.usercentrics.eu^
 ||usercycle.com^
 ||userdatatrust.com^
 ||userdive.com^
