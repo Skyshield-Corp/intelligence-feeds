@@ -1,13 +1,13 @@
 # Source: anti-AD EasyList
-# Updated: 2026-03-05T12:57:57.509430
+# Updated: 2026-03-06T02:00:28.196352
 # URL: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 
 !Title: anti-AD
-!Version: 20260305030958
+!Version: 20260305230100
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 98099
+!Total lines: 98098
 @@||ad.azure.com^
 @@||ad.ext.azure.com^
 @@||ads.taboola.com^
@@ -73756,7 +73756,6 @@
 ||eulerian.sarenza.com^
 ||sarov.ws^
 ||sarrowgrivois.com^
-||sas.com^
 ||sas15k01.com^
 ||ced.sascdn.com^
 ||stats.sascha-theobald.de^
