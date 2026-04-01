@@ -1,13 +1,13 @@
 # Source: anti-AD EasyList
-# Updated: 2026-04-01T02:30:43.296336
+# Updated: 2026-04-01T13:19:37.239550
 # URL: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 
 !Title: anti-AD
-!Version: 20260401033153
+!Version: 20260401111244
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 102104
+!Total lines: 102103
 @@||ad.azure.com^
 @@||ad.ext.azure.com^
 @@||ads.taboola.com^
@@ -59828,7 +59828,6 @@
 ||netar.net^
 ||netavenir.com^
 ||netbiscuits.net^
-||cnt.mail.netbk.co.jp^
 ||eulerian.netbooster.com^
 ||stats.netbopdev.co.uk^
 ||netcatx.com^
