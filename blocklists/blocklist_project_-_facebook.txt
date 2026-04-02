@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Facebook
-# Updated: 2026-04-02T02:09:40.168010
+# Updated: 2026-04-02T13:11:23.073894
 # URL: https://blocklistproject.github.io/Lists/facebook.txt
 
 # Title: Facebook Block List

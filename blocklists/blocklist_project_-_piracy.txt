@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Piracy
-# Updated: 2026-04-02T02:09:40.684441
+# Updated: 2026-04-02T13:11:23.761889
 # URL: https://blocklistproject.github.io/Lists/piracy.txt
 
 # Title: Piracy Block List
