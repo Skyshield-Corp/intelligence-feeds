@@ -1,8 +1,7 @@
 # Source: Blocklist - SIP/VoIP
-# Updated: 2026-04-11T12:55:53.296592
+# Updated: 2026-04-12T02:30:08.501716
 # URL: https://lists.blocklist.de/lists/sip.txt
 
-137.74.16.110
 151.60.213.136
 172.214.47.38
-37.59.79.205
+193.188.23.152
