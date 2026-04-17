@@ -1,13 +1,13 @@
 # Source: anti-AD EasyList
-# Updated: 2026-04-17T02:29:51.256325
+# Updated: 2026-04-17T13:17:14.027957
 # URL: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 
 !Title: anti-AD
-!Version: 20260417034200
+!Version: 20260417131737
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 102313
+!Total lines: 102311
 @@||ad.azure.com^
 @@||ad.ext.azure.com^
 @@||ads.taboola.com^
@@ -82527,7 +82527,6 @@
 ||bnr.sys.lv^
 ||sysad.cn^
 ||ss.sysadult.cn^
-||sysdig.com^
 ||eloqua.syslog-ng.com^
 ||plausible.sysloun.cz^
 ||sysmeasuring.net^
@@ -102055,7 +102054,6 @@
 ||pkk1.zuimeiniwo.com^
 ||bd1.zuimeitianqi.com^
 ||bd2.zuimeitianqi.com^
-||hw.zuimeitianqi.com^
 ||hwad.zuimeitianqi.com^
 ||stat.zuimeitianqi.com^
 ||zuingdqirviqy.website^
