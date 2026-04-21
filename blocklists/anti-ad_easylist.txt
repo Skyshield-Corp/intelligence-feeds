@@ -1,9 +1,9 @@
 # Source: anti-AD EasyList
-# Updated: 2026-04-20T13:26:47.653213
+# Updated: 2026-04-21T02:30:50.687175
 # URL: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 
 !Title: anti-AD
-!Version: 20260420031148
+!Version: 20260420230615
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
