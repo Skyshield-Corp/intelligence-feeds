@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Scam
-# Updated: 2026-06-21T14:07:57.911000
+# Updated: 2026-06-22T04:05:14.563963
 # URL: https://blocklistproject.github.io/Lists/scam.txt
 
 # Title: Scam Block List
 # Description: Scam domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2025-12-19 16:39:34 UTC
+# Last modified: 2026-06-22 00:09:00 UTC
 # Format: hosts
-# Entries: 1,274
+# Entries: 1,275
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -463,6 +463,7 @@
 0.0.0.0 moslt.com
 0.0.0.0 moteshoes.com
 0.0.0.0 mrarmstrongsclass.com
+0.0.0.0 mssupport.tech
 0.0.0.0 mualuondi.com
 0.0.0.0 multicoins.co
 0.0.0.0 museuw.com

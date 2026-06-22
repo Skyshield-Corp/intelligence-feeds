@@ -1,12 +1,12 @@
 # Source: Blocklist Project - Torrent
-# Updated: 2026-06-21T14:07:57.995053
+# Updated: 2026-06-22T04:05:14.766344
 # URL: https://blocklistproject.github.io/Lists/torrent.txt
 
 # Title: Torrent Block List
 # Description: Torrent and P2P sites
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2025-12-19 16:39:34 UTC
+# Last modified: 2026-06-22 00:09:00 UTC
 # Format: hosts
 # Entries: 2,624
 # URL: 

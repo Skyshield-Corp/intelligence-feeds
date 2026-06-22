@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Porn
-# Updated: 2026-06-21T14:07:57.714749
+# Updated: 2026-06-22T04:05:14.233406
 # URL: https://blocklistproject.github.io/Lists/porn.txt
 
 # Title: Porn Block List
 # Description: Adult content domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2025-12-19 16:39:33 UTC
+# Last modified: 2026-06-22 00:09:00 UTC
 # Format: hosts
-# Entries: 500,282
+# Entries: 500,295
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -22895,6 +22895,7 @@
 0.0.0.0 amater.canalblog.com
 0.0.0.0 amater.com
 0.0.0.0 amaterfoto.cz
+0.0.0.0 amateri.com
 0.0.0.0 amateri.cz
 0.0.0.0 amateri.pl
 0.0.0.0 amateri.sk
@@ -150769,6 +150770,7 @@
 0.0.0.0 fansexygirls.tumblr.com
 0.0.0.0 fanshaw63.tumblr.com
 0.0.0.0 fansitez.de
+0.0.0.0 fansly.com
 0.0.0.0 fanstalker.net
 0.0.0.0 fanstasmesexuel.canalblog.com
 0.0.0.0 fansygay.com
@@ -151357,6 +151359,7 @@
 0.0.0.0 fapngo.tumblr.com
 0.0.0.0 fapnnaprus.tumblr.com
 0.0.0.0 fapon.me
+0.0.0.0 faponhd.com
 0.0.0.0 faponline.tumblr.com
 0.0.0.0 fapooh.com
 0.0.0.0 fapoption.tumblr.com
@@ -314074,6 +314077,7 @@
 0.0.0.0 nubilespics.com
 0.0.0.0 nubilesplus.com
 0.0.0.0 nubilesporn.net
+0.0.0.0 nubilespornfan.com
 0.0.0.0 nubilespussy.com
 0.0.0.0 nubilesteens.blogspot.com
 0.0.0.0 nubilesteens.com
@@ -342836,6 +342840,7 @@
 0.0.0.0 pornhawks.com
 0.0.0.0 pornhd.co
 0.0.0.0 pornhd.com
+0.0.0.0 pornhd.tv
 0.0.0.0 pornhd.xyz
 0.0.0.0 pornhd365.com
 0.0.0.0 pornhd3x.net
@@ -343261,6 +343266,7 @@
 0.0.0.0 pornkitten.com
 0.0.0.0 pornkoala.tumblr.com
 0.0.0.0 pornkolors.com
+0.0.0.0 pornkoo.com
 0.0.0.0 pornkook.com
 0.0.0.0 pornkorean.net
 0.0.0.0 pornkr.blogspot.com
@@ -369252,6 +369258,7 @@
 0.0.0.0 rule34ofhentai.tumblr.com
 0.0.0.0 rule34porn.net
 0.0.0.0 rule34sex.com
+0.0.0.0 rule34video.com
 0.0.0.0 rule34world.tumblr.com
 0.0.0.0 rule36vx.tumblr.com
 0.0.0.0 rulecam.net
@@ -446135,6 +446142,7 @@
 0.0.0.0 thepornbar.com
 0.0.0.0 thepornbaron.com
 0.0.0.0 thepornbay.net
+0.0.0.0 thepornbay.org
 0.0.0.0 thepornblogger.net
 0.0.0.0 thepornblognetwork.tumblr.com
 0.0.0.0 thepornblogxxx.blogspot.com
@@ -451838,6 +451846,7 @@
 0.0.0.0 tkni.de
 0.0.0.0 tkotech.com
 0.0.0.0 tkplover.tumblr.com
+0.0.0.0 tktube.com
 0.0.0.0 tkyltime.tumblr.com
 0.0.0.0 tladies.com
 0.0.0.0 tlady.com
@@ -487630,6 +487639,7 @@
 0.0.0.0 xnxx.pet
 0.0.0.0 xnxx.pro
 0.0.0.0 xnxx.su
+0.0.0.0 xnxx.tv
 0.0.0.0 xnxx.vc
 0.0.0.0 xnxx.webobo.com
 0.0.0.0 xnxx.wordpresstube.net
@@ -488807,6 +488817,7 @@
 0.0.0.0 xtwinkvideos.com
 0.0.0.0 xtwisted.com
 0.0.0.0 xtwotails.tumblr.com
+0.0.0.0 xtxxx.com
 0.0.0.0 xtynaaa.tumblr.com
 0.0.0.0 xuantinh.com
 0.0.0.0 xubu.moy.su
@@ -488927,6 +488938,7 @@
 0.0.0.0 xvideos.tv
 0.0.0.0 xvideos.us
 0.0.0.0 xvideos1.webobo.com
+0.0.0.0 xvideos2.com
 0.0.0.0 xvideos5.com.br
 0.0.0.0 xvideos6.com
 0.0.0.0 xvideosadomaso.com
@@ -491693,6 +491705,7 @@
 0.0.0.0 xxxfhg.com
 0.0.0.0 xxxfile.net
 0.0.0.0 xxxfile.org
+0.0.0.0 xxxfiles.com
 0.0.0.0 xxxfiles.dk
 0.0.0.0 xxxfiles.dr.ag
 0.0.0.0 xxxfiles.free.fr

@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Abuse
-# Updated: 2026-06-21T14:07:58.479416
+# Updated: 2026-06-22T04:05:15.547521
 # URL: https://blocklistproject.github.io/Lists/abuse.txt
 
 # Title: Abuse Block List
 # Description: Domains involved in abuse
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2025-12-19 16:39:31 UTC
+# Last modified: 2026-06-22 00:08:57 UTC
 # Format: hosts
-# Entries: 435,155
+# Entries: 435,145
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -100688,7 +100688,6 @@
 0.0.0.0 euvqxg79ut.neliver.com
 0.0.0.0 euvtavrow.net
 0.0.0.0 euvwqt0kvn.neliver.com
-0.0.0.0 euwb.co.uk
 0.0.0.0 euwed.com
 0.0.0.0 euwidget.imshopping.com
 0.0.0.0 euxi249rqk.neliver.com
@@ -135247,7 +135246,6 @@
 0.0.0.0 ia1.7search.com
 0.0.0.0 ia600104.us.archive.org
 0.0.0.0 ia600400.us.archive.org
-0.0.0.0 ia600504.us.archive.org
 0.0.0.0 ia600706.us.archive.org
 0.0.0.0 ia600807.us.archive.org
 0.0.0.0 ia601203.us.archive.org
@@ -223345,7 +223343,6 @@
 0.0.0.0 schulenburgprinting.com
 0.0.0.0 schuler-rozzi.ch
 0.0.0.0 schuler-vt.de
-0.0.0.0 schulranzen-onlineshop.de
 0.0.0.0 schultedesign.de
 0.0.0.0 schultzremodelinginc.com
 0.0.0.0 schuna-trainer.de
@@ -227092,7 +227089,6 @@
 0.0.0.0 serveitup.io
 0.0.0.0 servemai.science
 0.0.0.0 servemeads.com
-0.0.0.0 serveo.net
 0.0.0.0 servepurpose.tk
 0.0.0.0 server-cheatchard.ddns.net
 0.0.0.0 server-iclouds.com
@@ -239354,7 +239350,6 @@
 0.0.0.0 supply-division.dk
 0.0.0.0 supply.upjers.com
 0.0.0.0 supplychain.institute
-0.0.0.0 supplyframe.com
 0.0.0.0 supplyonline.su
 0.0.0.0 supplyses.com
 0.0.0.0 supplyteach.dayone.io
@@ -318358,7 +318353,6 @@
 0.0.0.0 www.euuu.com
 0.0.0.0 www.euvdyfphknonplusses.review
 0.0.0.0 www.euvtavrow.net
-0.0.0.0 www.euwb.co.uk
 0.0.0.0 www.euwed.com
 0.0.0.0 www.euxnxohbjbkmqipqmyf.pw
 0.0.0.0 www.euyki.cc
@@ -387291,7 +387285,6 @@
 0.0.0.0 www.schulenburgprinting.com
 0.0.0.0 www.schuler-rozzi.ch
 0.0.0.0 www.schuler-vt.de
-0.0.0.0 www.schulranzen-onlineshop.de
 0.0.0.0 www.schultedesign.de
 0.0.0.0 www.schuster-nass.de
 0.0.0.0 www.schusterartconsultancy.com
@@ -389971,7 +389964,6 @@
 0.0.0.0 www.servehttp.com
 0.0.0.0 www.serveitup.io
 0.0.0.0 www.servemai.science
-0.0.0.0 www.serveo.net
 0.0.0.0 www.servepurpose.tk
 0.0.0.0 www.server-security-alert-system-amazon-online.ga
 0.0.0.0 www.server.bludomain21.com
@@ -421078,7 +421070,6 @@
 0.0.0.0 www.yeoldeinn.co.uk
 0.0.0.0 www.yeoufhivwwu.biz
 0.0.0.0 www.yeouyamall.com
-0.0.0.0 www.yep.com
 0.0.0.0 www.yepaxlnuossuaries.club
 0.0.0.0 www.yepjnddqpq.biz
 0.0.0.0 www.yeplhviz.pw
@@ -430144,7 +430135,6 @@
 0.0.0.0 yeonenukejm.bid
 0.0.0.0 yeoufhivwwu.biz
 0.0.0.0 yeouyamall.com
-0.0.0.0 yep.com
 0.0.0.0 yephjhhcg.com
 0.0.0.0 yepiafsrxffl.com
 0.0.0.0 yepjnddqpq.biz

@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Ads
-# Updated: 2026-06-21T14:07:58.621094
+# Updated: 2026-06-22T04:05:15.791309
 # URL: https://blocklistproject.github.io/Lists/ads.txt
 
 # Title: Ads Block List
 # Description: Ad serving domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2025-12-19 16:39:31 UTC
+# Last modified: 2026-06-22 00:08:58 UTC
 # Format: hosts
-# Entries: 154,554
+# Entries: 154,553
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -26382,6 +26382,7 @@
 0.0.0.0 adblade.com
 0.0.0.0 adblade.org
 0.0.0.0 adblender.ru
+0.0.0.0 adblendr.io
 0.0.0.0 adblock-proxy.rtty.in
 0.0.0.0 adblock.fr
 0.0.0.0 adblockanalytics.com
@@ -104233,7 +104234,6 @@
 0.0.0.0 piwik.onlinemagasinet.no
 0.0.0.0 piwik.org
 0.0.0.0 piwik.pokerlistings.com
-0.0.0.0 piwik.pro
 0.0.0.0 piwik.redtube.com
 0.0.0.0 piwik.schulzesteinmann.de
 0.0.0.0 piwik.shenghuo.xiaomi.com
@@ -123446,7 +123446,6 @@
 0.0.0.0 supply.upjers.com
 0.0.0.0 supply.xapads.com
 0.0.0.0 supply2.clickganic.com
-0.0.0.0 supplyframe.com
 0.0.0.0 support-ip.com
 0.0.0.0 support-win1230.com
 0.0.0.0 support.a-ads.com
