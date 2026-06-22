@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Fraud
-# Updated: 2026-06-22T04:05:15.075551
+# Updated: 2026-06-22T16:53:14.935991
 # URL: https://blocklistproject.github.io/Lists/fraud.txt
 
 # Title: Fraud Block List
 # Description: Fraud and scam domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-22 00:08:58 UTC
+# Last modified: 2026-06-22 15:34:58 UTC
 # Format: hosts
-# Entries: 196,082
+# Entries: 196,080
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -69232,7 +69232,6 @@
 0.0.0.0 papershelps.com
 0.0.0.0 papersnetwork.net
 0.0.0.0 papersonline.us
-0.0.0.0 papersowl.com
 0.0.0.0 paperspanda.com
 0.0.0.0 paperswriting.linkpc.net
 0.0.0.0 paperswriting.publicvm.com
@@ -161376,7 +161375,6 @@
 0.0.0.0 www.papershelps.com
 0.0.0.0 www.papersnetwork.net
 0.0.0.0 www.papersonline.us
-0.0.0.0 www.papersowl.com
 0.0.0.0 www.paperspanda.com
 0.0.0.0 www.paperswriting.linkpc.net
 0.0.0.0 www.paperswriting.publicvm.com

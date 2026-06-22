@@ -1,21 +1,20 @@
 # Source: Blocklist Project - Abuse
-# Updated: 2026-06-22T04:05:15.547521
+# Updated: 2026-06-22T16:53:15.508381
 # URL: https://blocklistproject.github.io/Lists/abuse.txt
 
 # Title: Abuse Block List
 # Description: Domains involved in abuse
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-22 00:08:57 UTC
+# Last modified: 2026-06-22 15:34:57 UTC
 # Format: hosts
-# Entries: 435,145
+# Entries: 435,129
 # URL: 
 #
 # This list is maintained by The Block List Project
 # https://github.com/blocklistproject/Lists
 #
 
-0.0.0.0 -sso.anbtr.com
 0.0.0.0 0--foodwarez.da.ru
 0.0.0.0 0-0-0-0-0-0proxy.tserv.se
 0.0.0.0 0-0-0.6te.net
@@ -19505,7 +19504,6 @@
 0.0.0.0 acman.us
 0.0.0.0 acmao.com
 0.0.0.0 acme-challenge.cf
-0.0.0.0 acme.com
 0.0.0.0 acme.com.mx
 0.0.0.0 acmeblock.com
 0.0.0.0 acmecepl.com
@@ -121714,7 +121712,6 @@
 0.0.0.0 google123.web1000.com
 0.0.0.0 google20.net
 0.0.0.0 google4.it
-0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads.g.doubleclick.cn.com
 0.0.0.0 googleadservicepixel.com
 0.0.0.0 googleadwords.pro
@@ -190505,7 +190502,6 @@
 0.0.0.0 oldrleov.impregnable.net
 0.0.0.0 oldsautoparts.com
 0.0.0.0 oldschool.runescape.com-q.us
-0.0.0.0 oldschool50.runescape.com
 0.0.0.0 oldschoolgames.org
 0.0.0.0 oldschoolmixing.com
 0.0.0.0 oldsite.jandrautorepair.com
@@ -196906,7 +196902,6 @@
 0.0.0.0 paypal.com-support.verif-case-purchase-id-9632-542-892.com
 0.0.0.0 paypal.com-webaps-login-access-your-account-limited-scure.aprovedaccount.info
 0.0.0.0 paypal.com-youracc92.info
-0.0.0.0 paypal.com.account.security.mo.verification.iatxmjzqhibe81zbfzz.checksecurity.jnidicadefnaleaa46cq6nxackdbw.secure.account-stat
 0.0.0.0 paypal.com.account.security.moj.checksecurity.jnidicadefnaleaa46cq6nxackdbw.secure.gaddave.com
 0.0.0.0 paypal.com.akbidmuhammadiyahcrb.ac.id
 0.0.0.0 paypal.com.auto-redirect.myapps.web-account.recovery-email.security.wholeimport.com
@@ -196965,14 +196960,6 @@
 0.0.0.0 paypal.de-secure-log.in
 0.0.0.0 paypal.de-secure-ssl-verifie.com
 0.0.0.0 paypal.de-sichererlogin.com
-0.0.0.0 paypal.de-signin-sicherheit-1544.paypal.de-signin-sicherheit-3339.amazon.de-signin-meinkundenservice-4630.amazon.de-signin-sich
-0.0.0.0 paypal.de-signin-sicherheit-1544.paypal.de-signin-sicherheit-3339.amazon.de-signin-meinkundenservice-4630.amazon.de-signin-siche
-0.0.0.0 paypal.de-signin-sicherheit-2070.amazon.de-signin-meinkundenservice-4630.amazon.de-signin-sicherheit-8562.amazon.de-signup-kund
-0.0.0.0 paypal.de-signin-sicherheit-2070.amazon.de-signin-meinkundenservice-4630.amazon.de-signin-sicherheit-8562.amazon.de-signup-kunde
-0.0.0.0 paypal.de-signin-sicherheit-3339.amazon.de-signin-meinkundenservice-4630.amazon.de-signin-sicherheit-8562.amazon.de-signup-kund
-0.0.0.0 paypal.de-signin-sicherheit-3339.amazon.de-signin-meinkundenservice-4630.amazon.de-signin-sicherheit-8562.amazon.de-signup-kunde
-0.0.0.0 paypal.de-signin-sicherheit-7295.paypal.de-signin-sicherheit-3339.amazon.de-signin-meinkundenservice-4630.amazon.de-signin-sich
-0.0.0.0 paypal.de-signin-sicherheit-7295.paypal.de-signin-sicherheit-3339.amazon.de-signin-meinkundenservice-4630.amazon.de-signin-siche
 0.0.0.0 paypal.de-verifie-ssl.com
 0.0.0.0 paypal.de-vorgangs-nummer-p361.info
 0.0.0.0 paypal.de.1klas902f-lsod92.com
@@ -206775,8 +206762,6 @@
 0.0.0.0 protection-pages.000webhostapp.com
 0.0.0.0 protection.secure.confirmation.fbid1703470323273355seta.1375333179420406.10737418.smktarunabhakti.net
 0.0.0.0 protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
-0.0.0.0 protection201-account.6827-update.team.com8serv1130.webs001231cr-cm-lgin-submmit-id99-l0gin-submito9-id.ppi11781-lo0gin-loogiin
-0.0.0.0 protection201-account.6827-update.team.com8serv1130.webs001231cr-cm-lgin-submmit-id99-l0gin-submito9-id.ppi11781-lo0gin-loogiin-
 0.0.0.0 protection32.in.net
 0.0.0.0 protection800000.000webhostapp.com
 0.0.0.0 protectioncomputersafe.club
@@ -210396,7 +210381,6 @@
 0.0.0.0 racquetballedmonton.ca
 0.0.0.0 racu.ltd
 0.0.0.0 racworld.org
-0.0.0.0 rad.microsoft.com
 0.0.0.0 radanska.be
 0.0.0.0 radars.tk
 0.0.0.0 radarstats.com

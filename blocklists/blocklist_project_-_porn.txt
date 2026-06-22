@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Porn
-# Updated: 2026-06-22T04:05:14.233406
+# Updated: 2026-06-22T16:53:14.368699
 # URL: https://blocklistproject.github.io/Lists/porn.txt
 
 # Title: Porn Block List
 # Description: Adult content domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-22 00:09:00 UTC
+# Last modified: 2026-06-22 15:34:59 UTC
 # Format: hosts
-# Entries: 500,295
+# Entries: 500,269
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -31317,7 +31317,6 @@
 0.0.0.0 anime2006.com
 0.0.0.0 anime4adults.com
 0.0.0.0 anime5pornlp1663.blogspot.com
-0.0.0.0 anime5pornlp1663.blogspot.r-porn-dvd-clips-.blogspot.com
 0.0.0.0 anime66.de
 0.0.0.0 anime_dudette.bravejournal.com
 0.0.0.0 animeaction.com
@@ -58941,7 +58940,6 @@
 0.0.0.0 bikini-cleavage1501.tumblr.com
 0.0.0.0 bikini-collection-xl.blogspot.com
 0.0.0.0 bikini-competition-xl.blogspot.com
-0.0.0.0 bikini-contest-photo-.blogspot.com
 0.0.0.0 bikini-cosplay.tumblr.com
 0.0.0.0 bikini-cute-booty.tumblr.com
 0.0.0.0 bikini-dare.com
@@ -92821,7 +92819,6 @@
 0.0.0.0 chatt-girl.de
 0.0.0.0 chattalk.com
 0.0.0.0 chattchubcub.tumblr.com
-0.0.0.0 chatte-.com.keeley-xxn.info
 0.0.0.0 chatte-a-sucer.massaggiare-nqw.info
 0.0.0.0 chatte-africaine-poilue.com
 0.0.0.0 chatte-amateur.roguet.com
@@ -94712,7 +94709,6 @@
 0.0.0.0 chicapass.com
 0.0.0.0 chicaplay.miarroba.com
 0.0.0.0 chicapussy.com
-0.0.0.0 chicas-.nelweb.it
 0.0.0.0 chicas-amateur.com
 0.0.0.0 chicas-amateur.net
 0.0.0.0 chicas-ardientes-sexis.blogspot.com
@@ -99494,7 +99490,6 @@
 0.0.0.0 cloudbreakgroup.com
 0.0.0.0 cloudbust61.tumblr.com
 0.0.0.0 cloudcasino.com
-0.0.0.0 clouded-thoughts-.tumblr.com
 0.0.0.0 cloudedperversions.tumblr.com
 0.0.0.0 cloudgirls.tumblr.com
 0.0.0.0 cloudhornygay.tumblr.com
@@ -156068,7 +156063,6 @@
 0.0.0.0 fetish-vixen.com
 0.0.0.0 fetish-voet.startspot.nl
 0.0.0.0 fetish-voeten.startspot.nl
-0.0.0.0 fetish-waskuip-.hotpaginas.com
 0.0.0.0 fetish-wear.co.uk
 0.0.0.0 fetish-web.de
 0.0.0.0 fetish-webcams.com
@@ -158464,7 +158458,6 @@
 0.0.0.0 film-mature.net
 0.0.0.0 film-moments.com
 0.0.0.0 film-porn.com
-0.0.0.0 film-porno-.ze.cx
 0.0.0.0 film-porno-amateur.fr
 0.0.0.0 film-porno-arabe.com
 0.0.0.0 film-porno-com.fr
@@ -161417,7 +161410,6 @@
 0.0.0.0 flirt.q24.de
 0.0.0.0 flirt.vs3.com
 0.0.0.0 flirt1.nl
-0.0.0.0 flirt4free-.blogspot.com
 0.0.0.0 flirt4free.ca
 0.0.0.0 flirt4free.cjb.net
 0.0.0.0 flirt4free.com
@@ -176581,7 +176573,6 @@
 0.0.0.0 fuckyeahnudepapis.tumblr.com
 0.0.0.0 fuckyeahnudepics.tumblr.com
 0.0.0.0 fuckyeahnudes.tumblr.com
-0.0.0.0 fuckyeahnudity-.tumblr.com
 0.0.0.0 fuckyeahnumnums.tumblr.com
 0.0.0.0 fuckyeahnymphets.tumblr.com
 0.0.0.0 fuckyeahocarinaoftime.tumblr.com
@@ -257344,7 +257335,6 @@
 0.0.0.0 leftylucy1313.tumblr.com
 0.0.0.0 leftyspornblog.com
 0.0.0.0 leftyspornpage.com
-0.0.0.0 lefuck-.tumblr.com
 0.0.0.0 lefuck.com
 0.0.0.0 lefuckingfuck.tumblr.com
 0.0.0.0 lefucknow.tumblr.com
@@ -269452,7 +269442,6 @@
 0.0.0.0 lollipoptwinks.com
 0.0.0.0 lolliporno.com
 0.0.0.0 lolliporno.tumblr.com
-0.0.0.0 lollita-blog-at-.blogspot.com
 0.0.0.0 lollita.nl
 0.0.0.0 lollitasex.nl
 0.0.0.0 lollitop.fr
@@ -280504,7 +280493,6 @@
 0.0.0.0 mastersanno.tumblr.com
 0.0.0.0 mastersassociation.com
 0.0.0.0 mastersaysboysobey.tumblr.com
-0.0.0.0 mastersbabygirl-.tumblr.com
 0.0.0.0 mastersbabygirl.tumblr.com
 0.0.0.0 mastersbdsmstash.tumblr.com
 0.0.0.0 mastersbreedinggirl.tumblr.com
@@ -281597,7 +281585,6 @@
 0.0.0.0 mature-selfie.tumblr.com
 0.0.0.0 mature-sensuality.com
 0.0.0.0 mature-series.com
-0.0.0.0 mature-sex-.blogspot.com
 0.0.0.0 mature-sex-action.org
 0.0.0.0 mature-sex-bbw-2013.blogspot.com
 0.0.0.0 mature-sex-chat.com
@@ -288909,7 +288896,6 @@
 0.0.0.0 milfhumiliations.net
 0.0.0.0 milfhumiliations.org
 0.0.0.0 milfhunger.tumblr.com
-0.0.0.0 milfhunter-.blogspot.com
 0.0.0.0 milfhunter-2.com
 0.0.0.0 milfhunter.be
 0.0.0.0 milfhunter.biz
@@ -327880,7 +327866,6 @@
 0.0.0.0 paridaida.tumblr.com
 0.0.0.0 parier-coupe-du-monde.eu
 0.0.0.0 parier-sport.eu
-0.0.0.0 paris-.blogspot.com
 0.0.0.0 paris-casting.com
 0.0.0.0 paris-chic.com
 0.0.0.0 paris-coquin.net
@@ -343721,7 +343706,6 @@
 0.0.0.0 porno--porno.de.sr
 0.0.0.0 porno--sex.com
 0.0.0.0 porno--sex.tumblr.com
-0.0.0.0 porno-.135.it
 0.0.0.0 porno-1.cz
 0.0.0.0 porno-1.net
 0.0.0.0 porno-2-mature.com
@@ -357153,7 +357137,6 @@
 0.0.0.0 pussycash.com
 0.0.0.0 pussycass04.tumblr.com
 0.0.0.0 pussycat-a-gogo.tumblr.com
-0.0.0.0 pussycat-dolls-.e-mp3s.eu
 0.0.0.0 pussycat-dolls-feat-snoop-dogg-butt.e-mp3s.eu
 0.0.0.0 pussycat-dolls-ft-snoop-dogg.e-mp3s.eu
 0.0.0.0 pussycat-dolls-snoop-dogg.e-mp3s.eu
@@ -359735,7 +359718,6 @@
 0.0.0.0 rafaelalencarxxx.com
 0.0.0.0 rafaelalencarxxx.tumblr.com
 0.0.0.0 rafaelcarreras.com
-0.0.0.0 rafaelle-.joueb.com
 0.0.0.0 rafaellordsfanclubxxx.tumblr.com
 0.0.0.0 rafaellordsxxx.tumblr.com
 0.0.0.0 rafaelqmahoney2002.blogspot.com
@@ -382802,7 +382784,6 @@
 0.0.0.0 sexcharme.ro
 0.0.0.0 sexchartz.de
 0.0.0.0 sexchase.com
-0.0.0.0 sexchat-.startspin.nl
 0.0.0.0 sexchat-24.coolix.com
 0.0.0.0 sexchat-24.net
 0.0.0.0 sexchat-24.org
@@ -387274,7 +387255,6 @@
 0.0.0.0 sexik.info
 0.0.0.0 sexik.ru
 0.0.0.0 sexiland.com
-0.0.0.0 sexilexi-.blogspot.com
 0.0.0.0 sexilexi.com
 0.0.0.0 sexilexi46.tumblr.com
 0.0.0.0 sexilexichiraq.tumblr.com
@@ -427623,7 +427603,6 @@
 0.0.0.0 suisse-love.com
 0.0.0.0 suisse-rencontre.com
 0.0.0.0 suisse-rencontres.com
-0.0.0.0 suisse-sexe-.en-action.org
 0.0.0.0 suisse-sexe.com
 0.0.0.0 suit-loving-boy.tumblr.com
 0.0.0.0 suit-tie-gay-photos-blog.tumblr.com
@@ -427932,7 +427911,6 @@
 0.0.0.0 sunnylatex.com
 0.0.0.0 sunnyleeone.blogspot.com
 0.0.0.0 sunnyleonboobs.tumblr.com
-0.0.0.0 sunnyleone-.blogspot.com
 0.0.0.0 sunnyleone-hd.tumblr.com
 0.0.0.0 sunnyleone.com
 0.0.0.0 sunnyleone.fr
@@ -439568,7 +439546,6 @@
 0.0.0.0 telesalope.com
 0.0.0.0 telesex-0900.com
 0.0.0.0 telesex-24.de
-0.0.0.0 telesex-erotik-telefonsex-.blogspot.com
 0.0.0.0 telesex.de
 0.0.0.0 telesex.in
 0.0.0.0 telesex.net
@@ -484756,7 +484733,6 @@
 0.0.0.0 www.perverttubepremium.com
 0.0.0.0 www.pervmom.com
 0.0.0.0 www.petiteteenlist.xyz
-0.0.0.0 www.phica.eu/forums/
 0.0.0.0 www.picsholder.com
 0.0.0.0 www.picsmetart.com
 0.0.0.0 www.picsnylonsexy.com
@@ -489538,7 +489514,6 @@
 0.0.0.0 xxx--darkangel--xxx.tumblr.com
 0.0.0.0 xxx--interracial-sluts--xxx.tumblr.com
 0.0.0.0 xxx--xxxx.tumblr.com
-0.0.0.0 xxx-.135.it
 0.0.0.0 xxx-1-absolutely-free-gay-male-erotic-sex-porn-stories.com
 0.0.0.0 xxx-1-absolutely-free-literoticas-adult-erotic-sex-stories.com
 0.0.0.0 xxx-1.com
@@ -498184,7 +498159,6 @@
 0.0.0.0 yourrhfksl.tumblr.com
 0.0.0.0 yourringisshowing.tumblr.com
 0.0.0.0 yourrrniggasdick.tumblr.com
-0.0.0.0 yours-truly-becca-.tumblr.com
 0.0.0.0 yoursecretdaddy.tumblr.com
 0.0.0.0 yoursecretfantasies.com
 0.0.0.0 yoursecretstud.tumblr.com

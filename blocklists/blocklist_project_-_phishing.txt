@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Phishing
-# Updated: 2026-06-22T04:05:15.287808
+# Updated: 2026-06-22T16:53:15.138230
 # URL: https://blocklistproject.github.io/Lists/phishing.txt
 
 # Title: Phishing Block List
 # Description: Phishing domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-22 00:08:59 UTC
+# Last modified: 2026-06-22 15:34:59 UTC
 # Format: hosts
-# Entries: 190,222
+# Entries: 190,224
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -55831,6 +55831,7 @@
 0.0.0.0 kazps.com
 0.0.0.0 kazukogstone.com
 0.0.0.0 kazuled.com.vn
+0.0.0.0 kazwex.com
 0.0.0.0 kazzpc.com
 0.0.0.0 kba.org.pk
 0.0.0.0 kbanka.com
@@ -77081,7 +77082,6 @@
 0.0.0.0 paypal.com.0.confirmation.account-security.39612823e89e12155115a36a9b9328ae39612823e89e12155115a36a9b932.3233.privado.info
 0.0.0.0 paypal.com.798273.ml
 0.0.0.0 paypal.com.7updatetonew.duckdns.org
-0.0.0.0 paypal.com.account.security.mo.verification.iatxmjzqhibe81zbfzz.checksecurity.jnidicadefnaleaa46cq6nxackdbw.secure.account-stats
 0.0.0.0 paypal.com.account.update.paypal.com.paradiseyouthclub.com
 0.0.0.0 paypal.com.amaaonaws.com
 0.0.0.0 paypal.com.au-deviceid7956075-customer83034.julienobles.com
@@ -103504,6 +103504,7 @@
 0.0.0.0 uk-appleid.com
 0.0.0.0 uk-appleidservice.com
 0.0.0.0 uk-bnk.com
+0.0.0.0 uk-dpd-parcelmovex.sbs
 0.0.0.0 uk-paypal.net
 0.0.0.0 uk-refund-support.com
 0.0.0.0 uk-restore.com
@@ -178885,6 +178886,7 @@
 0.0.0.0 www.trustlinkmm.com
 0.0.0.0 www.trustmidia.com.br
 0.0.0.0 www.trustpasslogin.com
+0.0.0.0 www.trustpilot.com
 0.0.0.0 www.trustsolucoes.com.br
 0.0.0.0 www.trusttravelusa.com
 0.0.0.0 www.trusturman.com
