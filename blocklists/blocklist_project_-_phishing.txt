@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Phishing
-# Updated: 2026-06-22T16:53:15.138230
+# Updated: 2026-06-23T03:27:04.820095
 # URL: https://blocklistproject.github.io/Lists/phishing.txt
 
 # Title: Phishing Block List
 # Description: Phishing domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-22 15:34:59 UTC
+# Last modified: 2026-06-23 01:27:29 UTC
 # Format: hosts
-# Entries: 190,224
+# Entries: 190,226
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -90213,6 +90213,7 @@
 0.0.0.0 sellyourcell.in
 0.0.0.0 sellyourmac.co.za
 0.0.0.0 selmart.net
+0.0.0.0 selot.jp.net
 0.0.0.0 selouskingalodge.com
 0.0.0.0 seltvideos.com
 0.0.0.0 selvagoldcovering.com
@@ -95397,6 +95398,7 @@
 0.0.0.0 staubsblog.com
 0.0.0.0 staubwoelkchen.at
 0.0.0.0 stavreko.cz
+0.0.0.0 stay-house24891.com
 0.0.0.0 stayclassy.ru
 0.0.0.0 staydryboatlauncher.com
 0.0.0.0 stayinsa.co.za

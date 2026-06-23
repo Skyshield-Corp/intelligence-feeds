@@ -1,12 +1,12 @@
 # Source: Blocklist Project - TikTok
-# Updated: 2026-06-22T16:53:14.639695
+# Updated: 2026-06-23T03:27:04.140059
 # URL: https://blocklistproject.github.io/Lists/tiktok.txt
 
 # Title: Tiktok Block List
 # Description: TikTok domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-22 15:35:00 UTC
+# Last modified: 2026-06-23 01:27:29 UTC
 # Format: hosts
 # Entries: 3,725
 # URL: 

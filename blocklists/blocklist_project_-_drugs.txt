@@ -1,12 +1,12 @@
 # Source: Blocklist Project - Drugs
-# Updated: 2026-06-22T16:53:15.733988
+# Updated: 2026-06-23T03:27:05.337469
 # URL: https://blocklistproject.github.io/Lists/drugs.txt
 
 # Title: Drugs Block List
 # Description: Drug-related domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-22 15:34:57 UTC
+# Last modified: 2026-06-23 01:27:29 UTC
 # Format: hosts
 # Entries: 26,030
 # URL: 

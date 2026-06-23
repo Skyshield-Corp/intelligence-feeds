@@ -1,12 +1,12 @@
 # Source: Blocklist Project - Redirect
-# Updated: 2026-06-22T16:53:14.545095
+# Updated: 2026-06-23T03:27:03.988717
 # URL: https://blocklistproject.github.io/Lists/redirect.txt
 
 # Title: Redirect Block List
 # Description: URL shorteners and redirects
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-22 15:35:00 UTC
+# Last modified: 2026-06-23 01:27:29 UTC
 # Format: hosts
 # Entries: 108,684
 # URL: 

@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Ads
-# Updated: 2026-06-22T16:53:15.581660
+# Updated: 2026-06-23T03:27:05.091123
 # URL: https://blocklistproject.github.io/Lists/ads.txt
 
 # Title: Ads Block List
 # Description: Ad serving domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-22 15:34:57 UTC
+# Last modified: 2026-06-23 01:27:28 UTC
 # Format: hosts
-# Entries: 154,412
+# Entries: 154,408
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -116951,7 +116951,6 @@
 0.0.0.0 sheknows-tagan.adlightning.com
 0.0.0.0 sheknows-uncategorized.t.domdex.com
 0.0.0.0 sheknows.us.intellitxt.com
-0.0.0.0 sheldonbrown.com
 0.0.0.0 shell.demdex.net
 0.0.0.0 shell.tt.omtrdc.net
 0.0.0.0 shellersyheaefm.download
@@ -140094,7 +140093,6 @@
 0.0.0.0 wa.essent.nl
 0.0.0.0 wa.koowo.com
 0.0.0.0 wa.kuwo.cn
-0.0.0.0 wa.me
 0.0.0.0 wa.metro.co.uk
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 wa4etw9l.top
@@ -148600,8 +148598,6 @@
 0.0.0.0 www.sharethrough.com
 0.0.0.0 www.shdfsdf.info
 0.0.0.0 www.shecards.net
-0.0.0.0 www.sheetedgfypgdtws.download
-0.0.0.0 www.sheldonbrown.com
 0.0.0.0 www.shellersyheaefm.download
 0.0.0.0 www.sheshine.com
 0.0.0.0 www.shglegle.com
