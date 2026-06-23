@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Phishing
-# Updated: 2026-06-23T03:27:04.820095
+# Updated: 2026-06-23T14:45:00.998341
 # URL: https://blocklistproject.github.io/Lists/phishing.txt
 
 # Title: Phishing Block List
 # Description: Phishing domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-23 01:27:29 UTC
+# Last modified: 2026-06-23 11:49:48 UTC
 # Format: hosts
-# Entries: 190,226
+# Entries: 190,225
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -15721,6 +15721,7 @@
 0.0.0.0 benderpainting.bc.ca
 0.0.0.0 benderterrace.net
 0.0.0.0 bendery-fortress.com
+0.0.0.0 bendigorewardsaj-homes.info
 0.0.0.0 bendinat-villa.com
 0.0.0.0 bendiouis-immobilier.com
 0.0.0.0 benditagraca.com.br
@@ -76513,7 +76514,6 @@
 0.0.0.0 payficient.com
 0.0.0.0 paygiveaway.com
 0.0.0.0 paygoworkercomp.com
-0.0.0.0 payhip.com
 0.0.0.0 payinbee.icu
 0.0.0.0 payintl-paypal.com
 0.0.0.0 payipal-infomation.mondomaide.ovh
@@ -122133,6 +122133,7 @@
 0.0.0.0 www.benderpainting.bc.ca
 0.0.0.0 www.benderterrace.net
 0.0.0.0 www.bendery-fortress.com
+0.0.0.0 www.bendigorewardsaj-homes.info
 0.0.0.0 www.bendinat-villa.com
 0.0.0.0 www.bendmunchkinmanor.com
 0.0.0.0 www.bends.in
@@ -127453,7 +127454,6 @@
 0.0.0.0 www.cinemania.us
 0.0.0.0 www.cinemanity.com
 0.0.0.0 www.cinemateus.com.br
-0.0.0.0 www.cinemazed.be
 0.0.0.0 www.cinemiz.net
 0.0.0.0 www.cinkantonlances.com
 0.0.0.0 www.cinny.athlodomi.com
@@ -162069,7 +162069,6 @@
 0.0.0.0 www.paygiveaway.com
 0.0.0.0 www.paygoworkercomp.com
 0.0.0.0 www.payhelpser.000webhostapp.com
-0.0.0.0 www.payhip.com
 0.0.0.0 www.payiipal.com
 0.0.0.0 www.payipaal.com
 0.0.0.0 www.paykassa2018.ru

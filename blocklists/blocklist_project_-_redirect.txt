@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Redirect
-# Updated: 2026-06-23T03:27:03.988717
+# Updated: 2026-06-23T14:45:00.403801
 # URL: https://blocklistproject.github.io/Lists/redirect.txt
 
 # Title: Redirect Block List
 # Description: URL shorteners and redirects
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-23 01:27:29 UTC
+# Last modified: 2026-06-23 11:49:49 UTC
 # Format: hosts
-# Entries: 108,684
+# Entries: 108,685
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -12375,6 +12375,7 @@
 0.0.0.0 blocklessinter9tk.tk
 0.0.0.0 blocklink.info
 0.0.0.0 blocklinkbypass.tk
+0.0.0.0 blocklist.site
 0.0.0.0 blockmeno.com
 0.0.0.0 blockmenot.biz
 0.0.0.0 blockmenot.co.uk

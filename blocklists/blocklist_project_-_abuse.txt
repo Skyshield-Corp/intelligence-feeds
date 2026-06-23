@@ -1,12 +1,12 @@
 # Source: Blocklist Project - Abuse
-# Updated: 2026-06-23T03:27:04.927459
+# Updated: 2026-06-23T14:45:01.029545
 # URL: https://blocklistproject.github.io/Lists/abuse.txt
 
 # Title: Abuse Block List
 # Description: Domains involved in abuse
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-23 01:27:28 UTC
+# Last modified: 2026-06-23 11:49:48 UTC
 # Format: hosts
 # Entries: 0
 # URL: 

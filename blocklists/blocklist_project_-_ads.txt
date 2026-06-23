@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Ads
-# Updated: 2026-06-23T03:27:05.091123
+# Updated: 2026-06-23T14:45:01.206373
 # URL: https://blocklistproject.github.io/Lists/ads.txt
 
 # Title: Ads Block List
 # Description: Ad serving domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-23 01:27:28 UTC
+# Last modified: 2026-06-23 12:30:50 UTC
 # Format: hosts
-# Entries: 154,408
+# Entries: 154,405
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -37386,7 +37386,6 @@
 0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 api.sdkbox.com
 0.0.0.0 api.searchiq.co
-0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.selfserve.rubiconproject.com
@@ -81698,7 +81697,6 @@
 0.0.0.0 ip193.cn
 0.0.0.0 ip2.casalemedia.com
 0.0.0.0 ip2c.landscape.co.jp
-0.0.0.0 ip2location.com
 0.0.0.0 ip2map.com
 0.0.0.0 ip2phrase.com
 0.0.0.0 ip400054.nym2.appnexus.com
@@ -142402,7 +142400,6 @@
 0.0.0.0 ws.onthe.io
 0.0.0.0 ws.plmokn.pw
 0.0.0.0 ws.push-notifs.com
-0.0.0.0 ws.pusherapp.com
 0.0.0.0 ws.routehero.com
 0.0.0.0 ws.sessioncam.com
 0.0.0.0 ws.sharethis.com

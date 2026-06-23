@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Torrent
-# Updated: 2026-06-23T03:27:04.267402
+# Updated: 2026-06-23T14:45:00.597666
 # URL: https://blocklistproject.github.io/Lists/torrent.txt
 
 # Title: Torrent Block List
 # Description: Torrent and P2P sites
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-23 01:27:29 UTC
+# Last modified: 2026-06-23 11:49:49 UTC
 # Format: hosts
-# Entries: 2,624
+# Entries: 2,623
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -426,7 +426,6 @@
 0.0.0.0 cartoonmenace.com
 0.0.0.0 casanovax.com
 0.0.0.0 cattorrent.co.uk
-0.0.0.0 cbc.ca
 0.0.0.0 ccfbits.org
 0.0.0.0 cdn.retget.ru
 0.0.0.0 ceasers-palace.info

@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Gambling
-# Updated: 2026-06-23T03:27:07.048528
+# Updated: 2026-06-23T14:45:03.058367
 # URL: https://blocklistproject.github.io/Lists/gambling.txt
 
 # Title: Gambling Block List
 # Description: Gambling sites
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-23 01:27:29 UTC
+# Last modified: 2026-06-23 11:49:48 UTC
 # Format: hosts
-# Entries: 2,509
+# Entries: 2,510
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -1143,6 +1143,7 @@
 0.0.0.0 spreadex.com
 0.0.0.0 sssbet.com
 0.0.0.0 staatsloterij.nederlandseloterij.nl
+0.0.0.0 stadsboerderijtje.be
 0.0.0.0 stakes.com
 0.0.0.0 stanjames.com
 0.0.0.0 starlottosport.com
