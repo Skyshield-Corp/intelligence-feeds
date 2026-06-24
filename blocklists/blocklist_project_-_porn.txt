@@ -1,18 +1,24 @@
 # Source: Blocklist Project - Porn
-# Updated: 2026-06-23T14:45:00.107097
+# Updated: 2026-06-24T03:28:38.877725
 # URL: https://blocklistproject.github.io/Lists/porn.txt
 
 # Title: Porn Block List
 # Description: Adult content domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-23 11:49:49 UTC
+# Last modified: 2026-06-24 02:00:51 UTC
 # Format: hosts
-# Entries: 1
+# Entries: 5
 # URL: 
 #
 # This list is maintained by The Block List Project
 # https://github.com/blocklistproject/Lists
 #
 
-0.0.0.0 xiumhua.com
+0.0.0.0 cumgloryhole.se
+0.0.0.0 ersties.com
+0.0.0.0 reddvideo.tube
+0.0.0.0 www.reddvideo.tube
+0.0.0.0 xiumhua.com cumgloryhole.se
+0.0.0.0 sbgefree.org
+0.0.0.0 www.sbgefree.org

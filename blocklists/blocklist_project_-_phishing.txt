@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Phishing
-# Updated: 2026-06-23T14:45:00.998341
+# Updated: 2026-06-24T03:28:39.991037
 # URL: https://blocklistproject.github.io/Lists/phishing.txt
 
 # Title: Phishing Block List
 # Description: Phishing domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-23 11:49:48 UTC
+# Last modified: 2026-06-24 02:00:51 UTC
 # Format: hosts
-# Entries: 190,225
+# Entries: 190,218
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -106081,8 +106081,6 @@
 0.0.0.0 verizonwireess.com
 0.0.0.0 verizonwireless-messaging.com
 0.0.0.0 verizonwireless-txt.com
-0.0.0.0 verizonwireless.com
-0.0.0.0 verizonwireless.company
 0.0.0.0 verizonwireless.rocks
 0.0.0.0 verizonwireless4g.com
 0.0.0.0 verizonwireless5g.com
@@ -107612,7 +107610,6 @@
 0.0.0.0 vzagainstwo.co.uk
 0.0.0.0 vzazrb.site
 0.0.0.0 vzdrzevan.si
-0.0.0.0 vzfraudatverizonwireless.com
 0.0.0.0 vziyqmtad.fu.maxgrowth.ru
 0.0.0.0 vzmakh.ru
 0.0.0.0 vzmo.bunopro.us
@@ -110293,7 +110290,6 @@
 0.0.0.0 wwtech.eu
 0.0.0.0 wwuol.com.br
 0.0.0.0 wwv-apple.com
-0.0.0.0 wwverizonwireless.com
 0.0.0.0 wwvv-apple.com
 0.0.0.0 wwvv.vlabcep.pet
 0.0.0.0 wwvwsantandermobiile.com
@@ -181111,7 +181107,6 @@
 0.0.0.0 www.verizonwireess.com
 0.0.0.0 www.verizonwireless-messaging.com
 0.0.0.0 www.verizonwireless-txt.com
-0.0.0.0 www.verizonwireless.company
 0.0.0.0 www.verizonwireless.rocks
 0.0.0.0 www.verizonwireless4g.com
 0.0.0.0 www.verizonwireless5g.com
@@ -182138,7 +182133,6 @@
 0.0.0.0 www.vyxwtjsq.tk
 0.0.0.0 www.vz9dhqlskgwtlksyxmzm.littlematchagirl.com.au
 0.0.0.0 www.vzdrzevan.si
-0.0.0.0 www.vzfraudatverizonwireless.com
 0.0.0.0 www.w-bdesigns.co.uk
 0.0.0.0 www.w-eight.org
 0.0.0.0 www.w-eos.com
@@ -184014,7 +184008,6 @@
 0.0.0.0 www.wwt.kz
 0.0.0.0 www.wwtech.eu
 0.0.0.0 www.wwv-apple.com
-0.0.0.0 www.wwverizonwireless.com
 0.0.0.0 www.wwvv-apple.com
 0.0.0.0 www.wwvwsantandermobiile.com
 0.0.0.0 www.www---apple.com
