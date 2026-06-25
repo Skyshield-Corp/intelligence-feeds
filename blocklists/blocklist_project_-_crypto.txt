@@ -1,12 +1,12 @@
 # Source: Blocklist Project - Crypto
-# Updated: 2026-06-25T03:26:08.166346
+# Updated: 2026-06-25T14:29:59.603512
 # URL: https://blocklistproject.github.io/Lists/crypto.txt
 
 # Title: Crypto Block List
 # Description: Cryptocurrency mining and scams
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-24 08:14:40 UTC
+# Last modified: 2026-06-25 10:06:33 UTC
 # Format: hosts
 # Entries: 1
 # URL: 

@@ -1,12 +1,12 @@
 # Source: Blocklist Project - Piracy
-# Updated: 2026-06-25T03:26:13.128106
+# Updated: 2026-06-25T14:30:01.945185
 # URL: https://blocklistproject.github.io/Lists/piracy.txt
 
 # Title: Piracy Block List
 # Description: Piracy and illegal streaming
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-24 08:14:41 UTC
+# Last modified: 2026-06-25 10:06:38 UTC
 # Format: hosts
 # Entries: 2,153
 # URL: 

@@ -1,8 +1,20 @@
 # Source: Blocklist Project - Porn
-# Updated: 2026-06-25T03:26:07.245529
+# Updated: 2026-06-25T14:29:57.183849
 # URL: https://blocklistproject.github.io/Lists/porn.txt
 
-0.0.0.0 #
+# Title: Porn Block List
+# Description: Adult content domains
+# Homepage: https://github.com/blocklistproject/Lists
+# License: MIT
+# Last modified: 2026-06-25 10:06:41 UTC
+# Format: hosts
+# Entries: 500,271
+# URL: 
+#
+# This list is maintained by The Block List Project
+# https://github.com/blocklistproject/Lists
+#
+
 0.0.0.0 0----q.tumblr.com
 0.0.0.0 0--liamariejohnson--0.nedrobin.net
 0.0.0.0 0-0-adult-superstore.com
@@ -208501,6 +208513,7 @@
 0.0.0.0 hdhentaitube.com
 0.0.0.0 hdhighresporn.com
 0.0.0.0 hdhighresporn.tumblr.com
+0.0.0.0 hdhole.com
 0.0.0.0 hdhomexxxclips.com
 0.0.0.0 hdhomo.be
 0.0.0.0 hdhomo.nl
