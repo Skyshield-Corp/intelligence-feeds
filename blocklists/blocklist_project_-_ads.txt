@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Ads
-# Updated: 2026-06-25T14:29:59.451796
+# Updated: 2026-06-26T03:34:15.074095
 # URL: https://blocklistproject.github.io/Lists/ads.txt
 
 # Title: Ads Block List
 # Description: Ad serving domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-25 10:06:32 UTC
+# Last modified: 2026-06-25 22:23:21 UTC
 # Format: hosts
-# Entries: 154,437
+# Entries: 154,435
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -149192,7 +149192,6 @@
 0.0.0.0 www.tlehflrectus.review
 0.0.0.0 www.tlkrvyuincommodes.review
 0.0.0.0 www.tlvmedia.com
-0.0.0.0 www.tm.a.prd.aadg.trafficmanager.net
 0.0.0.0 www.tms.triboomedia.it
 0.0.0.0 www.tmtrck.com
 0.0.0.0 www.tnctrx.com
