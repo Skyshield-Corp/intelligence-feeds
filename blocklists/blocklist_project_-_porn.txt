@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Porn
-# Updated: 2026-06-28T03:39:42.089925
+# Updated: 2026-06-28T13:43:21.578361
 # URL: https://blocklistproject.github.io/Lists/porn.txt
 
 # Title: Porn Block List
@@ -500287,3 +500287,7 @@
 0.0.0.0 zzzyzxxx.tumblr.com
 0.0.0.0 zzzz-m.tumblr.com
 0.0.0.0 zzzzporn.com
+xgroovy.com
+pornhub.run
+porn-hub.live
+m-pornhub.com

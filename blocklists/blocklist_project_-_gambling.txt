@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Gambling
-# Updated: 2026-06-28T03:39:44.465675
+# Updated: 2026-06-28T13:43:25.172643
 # URL: https://blocklistproject.github.io/Lists/gambling.txt
 
 # Title: Gambling Block List
@@ -17,3 +17,11 @@
 
 0.0.0.0 casinos-en-ligne-belge.com
 0.0.0.0 cb-128943.com
+0.0.0.0 odds.am
+0.0.0.0 pokerstars-01.com
+0.0.0.0 fezbet4.com
+0.0.0.0 sportfogadás.com
+0.0.0.0 unibet-112.com
+0.0.0.0 tippmixpro.hu
+0.0.0.0 sportfogadas.org
+0.0.0.0 tippmix.hu
