@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Abuse
-# Updated: 2026-06-29T03:45:10.021735
+# Updated: 2026-06-29T15:42:54.808316
 # URL: https://blocklistproject.github.io/Lists/abuse.txt
 
 # Title: Abuse Block List
@@ -156057,7 +156057,6 @@
 0.0.0.0 learn-to-knit.com
 0.0.0.0 learn.efesmoldova.md
 0.0.0.0 learn.jerryxu.cn
-0.0.0.0 learn.jquery.com
 0.0.0.0 learn2blean.com
 0.0.0.0 learn2comply.net
 0.0.0.0 learn2fly2.com
