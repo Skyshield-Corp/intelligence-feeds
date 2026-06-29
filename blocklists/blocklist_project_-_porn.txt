@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Porn
-# Updated: 2026-06-28T13:43:21.578361
+# Updated: 2026-06-29T03:45:08.117668
 # URL: https://blocklistproject.github.io/Lists/porn.txt
 
 # Title: Porn Block List
 # Description: Adult content domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-27 20:15:52 UTC
+# Last modified: 2026-06-28 17:19:01 UTC
 # Format: hosts
-# Entries: 500,272
+# Entries: 500,259
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -26937,7 +26937,6 @@
 0.0.0.0 ameliasartoysha.blogspot.com
 0.0.0.0 amelibertine.canalblog.com
 0.0.0.0 amelie-massages.onlc.fr
-0.0.0.0 amelie-sodomie.miarroba.com
 0.0.0.0 amelie-suce.com
 0.0.0.0 amelie.tonsite.biz
 0.0.0.0 amelie_charleb.monblogue.branchez-vous.com
@@ -31077,7 +31076,6 @@
 0.0.0.0 animalsex-trailer.startspot.nl
 0.0.0.0 animalsex-tube.com
 0.0.0.0 animalsex-videos.com
-0.0.0.0 animalsex-videos.miarroba.com
 0.0.0.0 animalsex.allepaginas.nl
 0.0.0.0 animalsex.blogshot.nl
 0.0.0.0 animalsex.cc
@@ -49439,7 +49437,6 @@
 0.0.0.0 beastrating.com
 0.0.0.0 beastrulez.tumblr.com
 0.0.0.0 beastsandbutts.tumblr.com
-0.0.0.0 beastsex-videos.miarroba.com
 0.0.0.0 beastsex.org
 0.0.0.0 beastsexmovies.blogspot.com
 0.0.0.0 beastsexo.cjb.net
@@ -64341,7 +64338,6 @@
 0.0.0.0 blogciber1.webcindario.com
 0.0.0.0 blogciber2.webcindario.com
 0.0.0.0 blogciber3.webcindario.com
-0.0.0.0 blogcindario.miarroba.com
 0.0.0.0 blogcokin.canalblog.com
 0.0.0.0 blogcoquin.canalblog.com
 0.0.0.0 blogcoquin.com
@@ -92242,7 +92238,6 @@
 0.0.0.0 chat-sexgirls.com
 0.0.0.0 chat-sexkontakte.de
 0.0.0.0 chat-sexline.de
-0.0.0.0 chat-sexo-gratis.miarroba.com
 0.0.0.0 chat-sexo.eu
 0.0.0.0 chat-sexo.org
 0.0.0.0 chat-sexo.ws
@@ -94707,7 +94702,6 @@
 0.0.0.0 chicaneriez.tumblr.com
 0.0.0.0 chicaoriental.com
 0.0.0.0 chicapass.com
-0.0.0.0 chicaplay.miarroba.com
 0.0.0.0 chicapussy.com
 0.0.0.0 chicas-amateur.com
 0.0.0.0 chicas-amateur.net
@@ -144722,7 +144716,6 @@
 0.0.0.0 establishmentagency.com
 0.0.0.0 estallidoanal.rr.nu
 0.0.0.0 estandybooks.com
-0.0.0.0 estaoboa.miarroba.com
 0.0.0.0 estaoboa.webcindario.com
 0.0.0.0 estar.canalblog.com
 0.0.0.0 estarbids.com
@@ -151540,7 +151533,6 @@
 0.0.0.0 farmporn.eu
 0.0.0.0 farmporno.com
 0.0.0.0 farmsecrets.com
-0.0.0.0 farmsex-videos.miarroba.com
 0.0.0.0 farmsex.com
 0.0.0.0 farmsex.net
 0.0.0.0 farmsexcity.com
@@ -210084,7 +210076,6 @@
 0.0.0.0 hentai-bois.tumblr.com
 0.0.0.0 hentai-bondage-blog.tumblr.com
 0.0.0.0 hentai-bondage.com
-0.0.0.0 hentai-bondage.miarroba.com
 0.0.0.0 hentai-brutal.com
 0.0.0.0 hentai-brutal.de
 0.0.0.0 hentai-bubble-butts.tumblr.com
@@ -210342,7 +210333,6 @@
 0.0.0.0 hentai-x.net
 0.0.0.0 hentai-x.tumblr.com
 0.0.0.0 hentai-xx.com
-0.0.0.0 hentai-xx.miarroba.com
 0.0.0.0 hentai-xxx.com
 0.0.0.0 hentai-xyz.tumblr.com
 0.0.0.0 hentai-yaoi.com
@@ -230216,7 +230206,6 @@
 0.0.0.0 images.bikerkiss.com
 0.0.0.0 images.co.il
 0.0.0.0 images.hentainexus.com
-0.0.0.0 images.miarroba.com
 0.0.0.0 images.netcomvad.com
 0.0.0.0 images.spewie.net
 0.0.0.0 images.spicyadulttools.com
@@ -243283,7 +243272,6 @@
 0.0.0.0 juegodeporno.tumblr.com
 0.0.0.0 juegolandia.net
 0.0.0.0 juegoporno.net
-0.0.0.0 juegos-eroticos.miarroba.com
 0.0.0.0 juegos-flash.org
 0.0.0.0 juegos-juegos.com
 0.0.0.0 juegos69.com
@@ -254185,7 +254173,6 @@
 0.0.0.0 lalapine.com
 0.0.0.0 lalateen.com
 0.0.0.0 lalatx.com
-0.0.0.0 lalavadoraerotica.miarroba.com
 0.0.0.0 lalaxfinityimvu.tumblr.com
 0.0.0.0 lalc.info
 0.0.0.0 lale.pl
@@ -274842,6 +274829,7 @@
 0.0.0.0 m-moneychaser.tumblr.com
 0.0.0.0 m-o-v-i-e-s.net
 0.0.0.0 m-porn.xxx
+0.0.0.0 m-pornhub.com
 0.0.0.0 m-porno.dk
 0.0.0.0 m-production.com
 0.0.0.0 m-r-w-i-c-k-e-d.tumblr.com
@@ -287208,7 +287196,6 @@
 0.0.0.0 mfmsluts.tumblr.com
 0.0.0.0 mfmvideos.tumblr.com
 0.0.0.0 mfo.com.es
-0.0.0.0 mforos.miarroba.com
 0.0.0.0 mfpen.tumblr.com
 0.0.0.0 mfpfilms.com
 0.0.0.0 mfree.ru
@@ -305273,6 +305260,7 @@
 0.0.0.0 nakedtightassesandperkytitties.tumblr.com
 0.0.0.0 nakedtimeee.tumblr.com
 0.0.0.0 nakedtimestories.tumblr.com
+0.0.0.0 nakedtits.com
 0.0.0.0 nakedtits.net
 0.0.0.0 nakedtitstube.com
 0.0.0.0 nakedtitties.com
@@ -340408,6 +340396,7 @@
 0.0.0.0 porn-hub-tube.com
 0.0.0.0 porn-hub.fr
 0.0.0.0 porn-hub.info
+0.0.0.0 porn-hub.live
 0.0.0.0 porn-hub.net
 0.0.0.0 porn-hub.org
 0.0.0.0 porn-hubs.com
@@ -342958,6 +342947,7 @@
 0.0.0.0 pornhub.nom.co
 0.0.0.0 pornhub.org
 0.0.0.0 pornhub.org.pl
+0.0.0.0 pornhub.run
 0.0.0.0 pornhub.sexcache.net
 0.0.0.0 pornhub.wordpresstube.net
 0.0.0.0 pornhub20.com
@@ -370494,7 +370484,6 @@
 0.0.0.0 safadasapeca.com
 0.0.0.0 safadasnaweb.com.br
 0.0.0.0 safadasnota1000.blogspot.com
-0.0.0.0 safadasxxx.miarroba.com
 0.0.0.0 safadasxxx.webcindario.com
 0.0.0.0 safadinhasdobrasilhp.hpg.ig.com.br
 0.0.0.0 safadinhasnuas.blogspot.com
@@ -389571,7 +389560,6 @@
 0.0.0.0 sexoengrupo.cl.tc
 0.0.0.0 sexoenlacalle.com
 0.0.0.0 sexoenlaces.com
-0.0.0.0 sexoenlaces.miarroba.com
 0.0.0.0 sexoenlared.com
 0.0.0.0 sexoenlinia.com
 0.0.0.0 sexoenpareja.com
@@ -417505,7 +417493,6 @@
 0.0.0.0 solo18.com
 0.0.0.0 soloaccess.com
 0.0.0.0 soloadultos.com
-0.0.0.0 soloadultos.miarroba.com
 0.0.0.0 soloadultos.net
 0.0.0.0 soloamateur.blogspot.com
 0.0.0.0 soloannuncidicoppiescambiste.com
@@ -427659,7 +427646,7 @@
 0.0.0.0 sukebe.biz
 0.0.0.0 sukebe.info
 0.0.0.0 sukebegazou.com
-0.0.0.0 sukebei.nyaa.net
+0.0.0.0 sukebei.nyaa.si
 0.0.0.0 sukebekitty.tumblr.com
 0.0.0.0 sukebelinks.com
 0.0.0.0 sukebepeople.blogspot.com
@@ -449826,7 +449813,6 @@
 0.0.0.0 tierradegays.free.fr
 0.0.0.0 tierraerotica.com
 0.0.0.0 tierrylermite.tumblr.com
-0.0.0.0 tiersex-videos.miarroba.com
 0.0.0.0 tieryb-pornographer.tumblr.com
 0.0.0.0 tieryb-pornohrapher.tumblr.com
 0.0.0.0 tierynbreastexpansion.tumblr.com
@@ -486802,6 +486788,7 @@
 0.0.0.0 xgratuit.org
 0.0.0.0 xgratuit.tv
 0.0.0.0 xgratuits.canalblog.com
+0.0.0.0 xgroovy.com
 0.0.0.0 xgroupsex.com
 0.0.0.0 xguest-cpl.tumblr.com
 0.0.0.0 xguide.com
@@ -500287,7 +500274,8 @@
 0.0.0.0 zzzyzxxx.tumblr.com
 0.0.0.0 zzzz-m.tumblr.com
 0.0.0.0 zzzzporn.com
-xgroovy.com
-pornhub.run
-porn-hub.live
-m-pornhub.com
+0.0.0.0 twitch.tv
+0.0.0.0 camwhorez.tv
+0.0.0.0 indianprn.com
+0.0.0.0 rj2jzgv.brave-peter.de
+0.0.0.0 thotbay.com

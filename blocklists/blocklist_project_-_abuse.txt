@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Abuse
-# Updated: 2026-06-28T13:43:23.144413
+# Updated: 2026-06-29T03:45:10.021735
 # URL: https://blocklistproject.github.io/Lists/abuse.txt
 
 # Title: Abuse Block List
 # Description: Domains involved in abuse
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-27 20:15:49 UTC
+# Last modified: 2026-06-28 17:18:59 UTC
 # Format: hosts
-# Entries: 435,129
+# Entries: 435,122
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -26760,7 +26760,6 @@
 0.0.0.0 ai-studio.jp
 0.0.0.0 ai-sweets.com
 0.0.0.0 ai.9sf.net
-0.0.0.0 ai.com
 0.0.0.0 ai.direct-software.com
 0.0.0.0 ai.hitbox.com
 0.0.0.0 ai.satevis.us
@@ -88850,7 +88849,6 @@
 0.0.0.0 download.kazaa.com
 0.0.0.0 download.kbstar.com
 0.0.0.0 download.kingtranslate.com
-0.0.0.0 download.komputerswiat.pl
 0.0.0.0 download.koyotesoft.com
 0.0.0.0 download.kr-mission.com
 0.0.0.0 download.ktqooksearch.co.kr
@@ -111314,7 +111312,6 @@
 0.0.0.0 forum.meinskype.de
 0.0.0.0 forum.mena.cz
 0.0.0.0 forum.mysolar.ro
-0.0.0.0 forum.pclab.pl
 0.0.0.0 forum.platinashop.com
 0.0.0.0 forum.ppcwarez.org
 0.0.0.0 forum.ragezone.com
@@ -142301,7 +142298,6 @@
 0.0.0.0 ispley.cn
 0.0.0.0 isportes.com
 0.0.0.0 isportskids.com
-0.0.0.0 isprambiente.gov.it
 0.0.0.0 isprime.com
 0.0.0.0 ispysoft.com
 0.0.0.0 ispytanie.savel.ru
@@ -152736,7 +152732,6 @@
 0.0.0.0 kompresoruremonts.lv
 0.0.0.0 komputer.birayang.com
 0.0.0.0 komputersaya.com
-0.0.0.0 komputerswiat.pl
 0.0.0.0 komqezsarmentose.download
 0.0.0.0 komsuciftlikcharles.blogspot.com
 0.0.0.0 komsupeynirdukkani.com
@@ -171052,7 +171047,6 @@
 0.0.0.0 miaomedia.com
 0.0.0.0 miaoqiling.com
 0.0.0.0 miaozhen.com
-0.0.0.0 miarroba.com
 0.0.0.0 miarun.ru
 0.0.0.0 miastolomza.pl
 0.0.0.0 miaudogs.pt
@@ -340330,7 +340324,6 @@
 0.0.0.0 www.ispfindia.org
 0.0.0.0 www.ispley.cn
 0.0.0.0 www.isportes.com
-0.0.0.0 www.isprambiente.gov.it
 0.0.0.0 www.ispysoft.com
 0.0.0.0 www.ispytanie.savel.ru
 0.0.0.0 www.isqvf.com
@@ -346176,7 +346169,6 @@
 0.0.0.0 www.komponententechnik.com
 0.0.0.0 www.kompresoruremonts.lv
 0.0.0.0 www.komputer.birayang.com
-0.0.0.0 www.komputerswiat.pl
 0.0.0.0 www.komqezsarmentose.download
 0.0.0.0 www.komsuciftlikcharles.blogspot.com
 0.0.0.0 www.komsupeynirdukkani.com

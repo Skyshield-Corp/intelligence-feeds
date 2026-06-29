@@ -1,19 +1,18 @@
 # Source: Blocklist Project - Ads
-# Updated: 2026-06-28T13:43:23.304654
+# Updated: 2026-06-29T03:45:10.092544
 # URL: https://blocklistproject.github.io/Lists/ads.txt
 
 # Title: Ads Block List
 # Description: Ad serving domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-27 20:15:50 UTC
+# Last modified: 2026-06-28 17:18:59 UTC
 # Format: hosts
-# Entries: 154,436
+# Entries: 154,362
 # URL: 
 #
 # This list is maintained by The Block List Project
 # https://github.com/blocklistproject/Lists
-#
 
 0.0.0.0 0.fls.doubleclick.net
 0.0.0.0 0.r.msn.com
@@ -29302,7 +29301,6 @@
 0.0.0.0 ads.metropolis.co.jp
 0.0.0.0 ads.mgmt.somee.com
 0.0.0.0 ads.mgnetwork.com
-0.0.0.0 ads.miarroba.com
 0.0.0.0 ads.mic.com
 0.0.0.0 ads.midatlantic.aaa.com
 0.0.0.0 ads.midwayusa.com
@@ -37209,7 +37207,6 @@
 0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 api.newshub.uodoo.com
 0.0.0.0 api.newshuntads.com
-0.0.0.0 api.nexx.cloud
 0.0.0.0 api.ning.com
 0.0.0.0 api.nirror.abtasty.com
 0.0.0.0 api.niumobi.com
@@ -49407,6 +49404,7 @@
 0.0.0.0 cdn.leon.ru
 0.0.0.0 cdn.lfstmedia.com
 0.0.0.0 cdn.libraries.inpwrd.com
+0.0.0.0 cdn.liftoff-creatives.io
 0.0.0.0 cdn.liftoff.io
 0.0.0.0 cdn.linksmart.com
 0.0.0.0 cdn.linkwelove.com
@@ -54115,7 +54113,6 @@
 0.0.0.0 consent.adincube.com
 0.0.0.0 consent.cmp.gamesradar.com
 0.0.0.0 consent.cmp.oath.com
-0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.mediaforge.com
 0.0.0.0 consent.subscriptions.archant.co.uk
 0.0.0.0 consent.theneweuropean.co.uk
@@ -54206,7 +54203,6 @@
 0.0.0.0 contadd.com
 0.0.0.0 contador-de-visitas.com
 0.0.0.0 contadordevisitas.es
-0.0.0.0 contadores.miarroba.com
 0.0.0.0 contadores.miarroba.es
 0.0.0.0 contadorgratis.com
 0.0.0.0 contadorgratis.es
@@ -59274,7 +59270,6 @@
 0.0.0.0 dc.railgun.works
 0.0.0.0 dc.sify.com
 0.0.0.0 dc.solocpm.com
-0.0.0.0 dc.trafficmanager.net
 0.0.0.0 dc.tremormedia.com
 0.0.0.0 dc.webtrends.com
 0.0.0.0 dc.yieldify.com
@@ -75884,7 +75879,6 @@
 0.0.0.0 hitcounter.ru
 0.0.0.0 hitcounter.servmetric.com
 0.0.0.0 hitcounter01.xspp.com
-0.0.0.0 hitcounters.miarroba.com
 0.0.0.0 hitcountersonline.com
 0.0.0.0 hitcounterstats.com
 0.0.0.0 hitcpm.com
@@ -92637,7 +92631,6 @@
 0.0.0.0 miamioh.qualtrics.com
 0.0.0.0 miaozhen-cm.admaster.com.cn
 0.0.0.0 miaozhen.com
-0.0.0.0 miarroba.com
 0.0.0.0 miastina.pw
 0.0.0.0 mibebu.com
 0.0.0.0 mibet.com
@@ -100180,7 +100173,6 @@
 0.0.0.0 online.cnzz.com
 0.0.0.0 online.com
 0.0.0.0 online.koko-ko.com
-0.0.0.0 online.miarroba.com
 0.0.0.0 online.mik123.com
 0.0.0.0 online.mobify.net
 0.0.0.0 online.qdigital.co.il
@@ -147435,7 +147427,6 @@
 0.0.0.0 www.nextstudent.com
 0.0.0.0 www.nexus.ensighten.com
 0.0.0.0 www.neyscape.com
-0.0.0.0 www.nfbio.dk
 0.0.0.0 www.ngads.com
 0.0.0.0 www.ngbn.net
 0.0.0.0 www.ngludvfyaspiration.review
@@ -154383,3 +154374,7 @@
 0.0.0.0 zzz.adx1.com
 0.0.0.0 zzz.clickbank.net
 0.0.0.0 zzznews.ru
+0.0.0.0 my.onetrust.com
+0.0.0.0 mobile-data.onetrust.io
+0.0.0.0 bzib.nelreports.net
+0.0.0.0 clientfd.family.microsoft.com

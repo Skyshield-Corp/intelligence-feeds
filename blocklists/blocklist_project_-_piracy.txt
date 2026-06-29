@@ -1,12 +1,12 @@
 # Source: Blocklist Project - Piracy
-# Updated: 2026-06-28T13:43:25.511623
+# Updated: 2026-06-29T03:45:12.369804
 # URL: https://blocklistproject.github.io/Lists/piracy.txt
 
 # Title: Piracy Block List
 # Description: Piracy and illegal streaming
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-27 20:15:51 UTC
+# Last modified: 2026-06-28 17:19:01 UTC
 # Format: hosts
 # Entries: 2,153
 # URL: 
@@ -2168,3 +2168,4 @@
 0.0.0.0 zonawarez.net
 0.0.0.0 zoomtorrents.com
 0.0.0.0 zoozle.org
+0.0.0.0 nullforums.net

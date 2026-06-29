@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Phishing
-# Updated: 2026-06-28T13:43:22.678223
+# Updated: 2026-06-29T03:45:09.534451
 # URL: https://blocklistproject.github.io/Lists/phishing.txt
 
 # Title: Phishing Block List
 # Description: Phishing domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-27 20:15:51 UTC
+# Last modified: 2026-06-28 17:19:01 UTC
 # Format: hosts
-# Entries: 190,218
+# Entries: 190,215
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -95477,6 +95477,7 @@
 0.0.0.0 steamcommuinlty.com
 0.0.0.0 steamcommujtliy.com
 0.0.0.0 steamcommumnity.com
+0.0.0.0 steamcommumtiy.com
 0.0.0.0 steamcommunety.com
 0.0.0.0 steamcommunety.net
 0.0.0.0 steamcommuniitu.com
@@ -184614,7 +184615,6 @@
 0.0.0.0 www.xemayanhem.com
 0.0.0.0 www.xemoz.com
 0.0.0.0 www.xenangdaiduong.com.vn
-0.0.0.0 www.xenet.es
 0.0.0.0 www.xenew.tk
 0.0.0.0 www.xenewns.tk
 0.0.0.0 www.xenoninfotech.in
@@ -187502,7 +187502,6 @@
 0.0.0.0 xenangdaiduong.com.vn
 0.0.0.0 xenaroda.com
 0.0.0.0 xenctoy.ga
-0.0.0.0 xenet.es
 0.0.0.0 xenew.tk
 0.0.0.0 xenewns.tk
 0.0.0.0 xenoninfotech.in
@@ -190231,4 +190230,3 @@
 0.0.0.0 zzz.nosu.yi.org
 0.0.0.0 zzzha.com
 0.0.0.0 zzzzzqp.com
-0.0.0.0 steamcommumtiy.com
