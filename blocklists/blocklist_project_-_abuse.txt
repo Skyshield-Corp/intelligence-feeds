@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Abuse
-# Updated: 2026-07-03T14:00:09.849010
+# Updated: 2026-07-05T02:56:35.335729
 # URL: https://blocklistproject.github.io/Lists/abuse.txt
 
 # Title: Abuse Block List
 # Description: Domains involved in abuse
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-28 17:18:59 UTC
+# Last modified: 2026-07-05 00:28:57 UTC
 # Format: hosts
-# Entries: 435,122
+# Entries: 435,119
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -40625,7 +40625,6 @@
 0.0.0.0 awrxkucpfbsq.com
 0.0.0.0 aws-ajax.com
 0.0.0.0 aws-software.com
-0.0.0.0 aws.com
 0.0.0.0 aws2.support
 0.0.0.0 aws2018.albaws.scot
 0.0.0.0 awsatstb.com

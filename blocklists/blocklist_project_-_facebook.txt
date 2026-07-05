@@ -1,12 +1,12 @@
 # Source: Blocklist Project - Facebook
-# Updated: 2026-07-03T14:00:11.280668
+# Updated: 2026-07-05T02:56:37.861547
 # URL: https://blocklistproject.github.io/Lists/facebook.txt
 
 # Title: Facebook Block List
 # Description: Facebook and Meta domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-28 17:19:00 UTC
+# Last modified: 2026-07-05 00:28:58 UTC
 # Format: hosts
 # Entries: 22,362
 # URL: 

@@ -1,12 +1,12 @@
 # Source: Blocklist Project - Phishing
-# Updated: 2026-07-03T14:00:09.727519
+# Updated: 2026-07-05T02:56:34.006443
 # URL: https://blocklistproject.github.io/Lists/phishing.txt
 
 # Title: Phishing Block List
 # Description: Phishing domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-06-28 17:19:01 UTC
+# Last modified: 2026-07-05 00:29:08 UTC
 # Format: hosts
 # Entries: 190,215
 # URL: 
