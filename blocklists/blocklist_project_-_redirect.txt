@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Redirect
-# Updated: 2026-07-06T03:23:34.055370
+# Updated: 2026-07-06T15:28:59.086432
 # URL: https://blocklistproject.github.io/Lists/redirect.txt
 
 # Title: Redirect Block List
