@@ -1,12 +1,12 @@
 # Source: Blocklist Project - Scam
-# Updated: 2026-07-05T13:27:31.182183
+# Updated: 2026-07-06T03:23:34.115212
 # URL: https://blocklistproject.github.io/Lists/scam.txt
 
 # Title: Scam Block List
 # Description: Scam domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-07-05 00:29:11 UTC
+# Last modified: 2026-07-06 00:40:32 UTC
 # Format: hosts
 # Entries: 8,528
 # URL: 

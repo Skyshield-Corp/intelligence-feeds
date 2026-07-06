@@ -1,12 +1,12 @@
 # Source: Blocklist Project - Fraud
-# Updated: 2026-07-05T13:27:31.579584
+# Updated: 2026-07-06T03:23:34.504411
 # URL: https://blocklistproject.github.io/Lists/fraud.txt
 
 # Title: Fraud Block List
 # Description: Fraud and scam domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-07-05 00:46:13 UTC
+# Last modified: 2026-07-06 00:40:19 UTC
 # Format: hosts
 # Entries: 256,268
 # URL: 

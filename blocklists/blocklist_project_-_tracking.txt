@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Tracking
-# Updated: 2026-07-05T13:27:31.353591
+# Updated: 2026-07-06T03:23:34.332555
 # URL: https://blocklistproject.github.io/Lists/tracking.txt
 
 # Title: Tracking Block List
 # Description: Tracking and analytics
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-07-05 00:29:11 UTC
+# Last modified: 2026-07-06 00:40:32 UTC
 # Format: hosts
-# Entries: 143,870
+# Entries: 143,869
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -141720,7 +141720,6 @@
 0.0.0.0 weekofeternaljoy.com
 0.0.0.0 wefhitrk.com
 0.0.0.0 wefi.com
-0.0.0.0 wego.here.com
 0.0.0.0 wehvtomny.com
 0.0.0.0 weighted.logs.roku.com
 0.0.0.0 wekre6r5lsxxzzbnlltsbyfm6i0dcqrs.lambda-url.eu-central-1.on.aws

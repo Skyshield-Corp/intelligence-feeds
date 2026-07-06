@@ -1,12 +1,12 @@
 # Source: Blocklist Project - Ransomware
-# Updated: 2026-07-05T13:27:31.027191
+# Updated: 2026-07-06T03:23:33.966732
 # URL: https://blocklistproject.github.io/Lists/ransomware.txt
 
 # Title: Ransomware Block List
 # Description: Ransomware C2 and distribution
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-07-05 00:29:11 UTC
+# Last modified: 2026-07-06 00:40:31 UTC
 # Format: hosts
 # Entries: 1,904
 # URL: 

@@ -1,12 +1,12 @@
 # Source: Blocklist Project - Gambling
-# Updated: 2026-07-05T13:27:33.678360
+# Updated: 2026-07-06T03:23:36.833236
 # URL: https://blocklistproject.github.io/Lists/gambling.txt
 
 # Title: Gambling Block List
 # Description: Gambling sites
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-07-05 00:28:59 UTC
+# Last modified: 2026-07-06 00:40:20 UTC
 # Format: hosts
 # Entries: 278,857
 # URL: 

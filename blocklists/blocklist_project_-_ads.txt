@@ -1,14 +1,14 @@
 # Source: Blocklist Project - Ads
-# Updated: 2026-07-05T13:27:32.122582
+# Updated: 2026-07-06T03:23:34.979576
 # URL: https://blocklistproject.github.io/Lists/ads.txt
 
 # Title: Ads Block List
 # Description: Ad serving domains
 # Homepage: https://github.com/blocklistproject/Lists
 # License: MIT
-# Last modified: 2026-07-05 00:55:43 UTC
+# Last modified: 2026-07-06 00:40:19 UTC
 # Format: hosts
-# Entries: 233,957
+# Entries: 233,956
 # URL: 
 #
 # This list is maintained by The Block List Project
@@ -77219,7 +77219,6 @@
 0.0.0.0 compu3.com
 0.0.0.0 compufixshop.com
 0.0.0.0 compulenta.ru.intellitxt.com
-0.0.0.0 compute-1.amazonaws.com
 0.0.0.0 computegoggleorbit.com
 0.0.0.0 computer-offer.com
 0.0.0.0 computeractive.uk.intellitxt.com
