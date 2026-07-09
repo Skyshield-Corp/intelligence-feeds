@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Tracking
-# Updated: 2026-07-08T14:01:31.481391
+# Updated: 2026-07-09T02:51:14.517924
 # URL: https://blocklistproject.github.io/Lists/tracking.txt
 
 # Tracking Blocklist
