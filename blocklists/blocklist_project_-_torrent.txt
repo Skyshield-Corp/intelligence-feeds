@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Torrent
-# Updated: 2026-07-11T13:15:13.071593
+# Updated: 2026-07-12T02:36:37.860970
 # URL: https://blocklistproject.github.io/Lists/torrent.txt
 
 # Title: Torrent Block List
