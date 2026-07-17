@@ -1,5 +1,5 @@
 # Source: AdAway Default Blocklist
-# Updated: 2026-07-17T02:30:35.483495
+# Updated: 2026-07-17T13:24:04.997731
 # URL: https://adaway.org/hosts.txt
 
 # AdAway default blocklist
