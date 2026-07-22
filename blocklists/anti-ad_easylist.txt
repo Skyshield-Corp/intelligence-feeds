@@ -1,5 +1,5 @@
 # Source: anti-AD EasyList
-# Updated: 2026-07-22T02:30:48.167170
+# Updated: 2026-07-22T13:48:35.812769
 # URL: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 
 !Title: anti-AD
