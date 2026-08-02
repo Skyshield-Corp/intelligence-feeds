@@ -1,5 +1,5 @@
 # Source: AnudeepND - Adservers
-# Updated: 2026-08-02T02:37:26.229748
+# Updated: 2026-08-02T13:16:50.643471
 # URL: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 
 # Host file to block ads, tracking and more! Updated daily
