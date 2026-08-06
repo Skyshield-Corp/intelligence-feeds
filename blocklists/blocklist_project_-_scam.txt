@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Scam
-# Updated: 2026-08-06T02:25:20.255107
+# Updated: 2026-08-06T14:04:00.040337
 # URL: https://blocklistproject.github.io/Lists/scam.txt
 
 # Title: Scam Block List
