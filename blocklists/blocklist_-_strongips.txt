@@ -1,5 +1,5 @@
 # Source: Blocklist - StrongIPs
-# Updated: 2026-08-16T01:11:19.313306
+# Updated: 2026-08-16T12:34:41.514631
 # URL: https://lists.blocklist.de/lists/strongips.txt
 
 1.212.225.99
