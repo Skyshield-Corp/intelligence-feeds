@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Gambling
-# Updated: 2026-08-29T16:13:50.529054
+# Updated: 2026-08-30T03:43:28.367092
 # URL: https://blocklistproject.github.io/Lists/gambling.txt
 
 # Gambling Blocklist
