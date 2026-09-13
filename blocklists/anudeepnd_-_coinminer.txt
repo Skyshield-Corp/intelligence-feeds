@@ -1,5 +1,5 @@
 # Source: AnudeepND - CoinMiner
-# Updated: 2026-09-13T03:15:11.659296
+# Updated: 2026-09-13T15:38:14.189531
 # URL: https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
 
 # Host file to block ads, tracking and more! Updated daily
