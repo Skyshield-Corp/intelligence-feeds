@@ -1,5 +1,5 @@
 # Source: Blocklist - Apache attacks
-# Updated: 2026-10-03T15:44:31.155105
+# Updated: 2026-10-04T04:23:04.280502
 # URL: https://lists.blocklist.de/lists/apache.txt
 
 77.109.139.87

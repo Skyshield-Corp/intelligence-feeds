@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Crypto
-# Updated: 2026-10-03T15:44:29.154222
+# Updated: 2026-10-04T04:23:01.709291
 # URL: https://blocklistproject.github.io/Lists/crypto.txt
 
 # Crypto Blocklist
