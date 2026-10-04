@@ -1,5 +1,5 @@
 # Source: Blocklist - All Attacks
-# Updated: 2026-10-04T04:23:04.369248
+# Updated: 2026-10-04T16:28:05.375403
 # URL: https://lists.blocklist.de/lists/all.txt
 
 77.109.139.87

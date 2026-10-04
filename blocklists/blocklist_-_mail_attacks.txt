@@ -1,5 +1,5 @@
 # Source: Blocklist - Mail attacks
-# Updated: 2026-10-04T04:23:04.719251
+# Updated: 2026-10-04T16:28:05.513166
 # URL: https://lists.blocklist.de/lists/mail.txt
 
 77.109.139.87
