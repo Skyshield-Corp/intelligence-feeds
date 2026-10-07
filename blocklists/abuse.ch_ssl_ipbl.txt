@@ -1,5 +1,5 @@
 # Source: Abuse.ch SSL IPBL
-# Updated: 2026-10-07T04:23:56.228080
+# Updated: 2026-10-07T18:27:01.902115
 # URL: https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 
 ################################################################
