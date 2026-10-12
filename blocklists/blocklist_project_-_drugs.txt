@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Drugs
-# Updated: 2026-10-12T04:24:35.644233
+# Updated: 2026-10-12T20:55:20.374028
 # URL: https://blocklistproject.github.io/Lists/drugs.txt
 
 # Title: Drugs Block List
