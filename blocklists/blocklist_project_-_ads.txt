@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Ads
-# Updated: 2026-10-22T16:39:25.125229
+# Updated: 2026-10-23T03:26:28.828910
 # URL: https://blocklistproject.github.io/Lists/ads.txt
 
 # Ads Blocklist
