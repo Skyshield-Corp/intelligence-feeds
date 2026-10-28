@@ -1,5 +1,5 @@
 # Source: AdGuard DNS Domains
-# Updated: 2026-10-28T04:03:16.720434
+# Updated: 2026-10-28T17:54:23.951761
 # URL: https://v.firebog.net/hosts/AdguardDNS.txt
 
 # AdguardDNS, parsed and mirrored by https://firebog.net
