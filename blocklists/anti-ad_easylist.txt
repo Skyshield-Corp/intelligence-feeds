@@ -1,13 +1,13 @@
 # Source: anti-AD EasyList
-# Updated: 2026-10-30T04:27:15.131292
+# Updated: 2026-10-30T17:43:25.204441
 # URL: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 
 !Title: anti-AD
-!Version: 20261029064402
+!Version: 20261030205753
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 94539
+!Total lines: 94535
 @@||ad.azure.com^
 @@||ad.ext.azure.com^
 @@||ads.finance^
@@ -22722,7 +22722,6 @@
 ||iam-rum-intake.datadoghq.com^
 ||logs.datadoghq.com^
 ||datadoghq.eu^
-||datadome.co^
 ||adsmartget.datads.cn^
 ||datadsk.com^
 ||datafa.st^
@@ -28373,7 +28372,7 @@
 ||enrtx.com^
 ||ensealplaners.com^
 ||enseq50a.xyz^
-||ensighten.com^
+||nexus.ensighten.com^
 ||ensmwonhtzpdh.space^
 ||ensosignal.com^
 ||enstatenewark.com^
@@ -33924,7 +33923,6 @@
 ||xwpzlz.gemimarket.it^
 ||geminisailingzillion.com^
 ||cmp.gemius.com^
-||gemius.pl^
 ||gemlithium.com^
 ||ovrsso.gemo.fr^
 ||gemorganic.com^
@@ -49138,7 +49136,6 @@
 ||scdn.literatur-couch.de^
 ||stats.literaturkreis.online^
 ||ini.litingxin.cn^
-||litix.io^
 ||link.litnet.com^
 ||litpzshqdkjvn.online^
 ||litrujsxxymfn.website^
@@ -59363,7 +59360,6 @@
 ||omshedinjaor.com^
 ||d.omsnative.de^
 ||omswwmgtqwekb.space^
-||omtrdc.net^
 ||omwvapmytccsc.online^
 ||omwvtaafvqa.in^
 ||omxpiremgszzv.space^
@@ -62871,7 +62867,6 @@
 ||placidityelite.com^
 ||placiditylever.com^
 ||placidperson.com^
-||pladform.ru^
 ||hsvrww.plain-me.com^
 ||plain-plane.com^
 ||plaincapsize.com^
@@ -71501,7 +71496,8 @@
 ||a8clk.segatoys.com^
 ||nossl.segfault.net^
 ||stat.segitek.hu^
-||segment.com^
+||cdn-settings.segment.com^
+||mobile-service.segment.com^
 ||segment.io^
 ||segmenthub.com^
 ||segmentify.com^
