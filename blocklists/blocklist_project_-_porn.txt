@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Porn
-# Updated: 2026-11-13T19:13:41.644013
+# Updated: 2026-11-14T04:58:57.627417
 # URL: https://blocklistproject.github.io/Lists/porn.txt
 
 # Title: Porn Block List
