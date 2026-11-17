@@ -1,5 +1,5 @@
 # Source: Blocklist Project - Fraud
-# Updated: 2026-11-16T21:39:09.515983
+# Updated: 2026-11-17T06:36:51.489302
 # URL: https://blocklistproject.github.io/Lists/fraud.txt
 
 # Fraud Blocklist
