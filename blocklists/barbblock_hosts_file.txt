@@ -1,5 +1,5 @@
 # Source: BarbBlock Hosts File
-# Updated: 2026-11-18T05:57:22.917113
+# Updated: 2026-11-18T19:59:27.571299
 # URL: https://raw.githubusercontent.com/paulgb/BarbBlock/master/blacklists/hosts-file.txt
 
 # BarbBlock
